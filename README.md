@@ -44,16 +44,16 @@ I build web apps that solve practical problems, from full-stack platforms to net
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**KoDeCK BioLoop**](https://github.com/cronX758/kodeck-bioloop) | Phone-first app that turns organic waste into farm inputs. AI checks each waste photo, routes it to a BSF or compost farmer, and rewards uploaders with airtime or M-Pesa payouts. Includes a county admin dashboard. | Next.js, TypeScript, Tailwind, AI vision |
-| [**Clintech WiFi Billing**](https://github.com/cronX758/clintech-billing) | MikroTik hotspot billing system. Users buy WiFi packages online and get access automatically. | Node.js, Express, MikroTik API, Paystack |
-| [**E-Library**](https://github.com/cronX758/e-library.github.io) | Digital library for browsing and borrowing books. | Python, Django |
-| [**Portfolio**](https://cronx758.github.io/bronco.github.io/) | My personal resume and portfolio site. | HTML, CSS, Bootstrap |
+| [**KoDeCK BioLoop**](https://github.com/cbororio/kodeck-bioloop) | Phone-first app that turns organic waste into farm inputs. AI checks each waste photo, routes it to a BSF or compost farmer, and rewards uploaders with airtime or M-Pesa payouts. Includes a county admin dashboard. | Next.js, TypeScript, Tailwind, AI vision |
+| [**Clintech WiFi Billing**](https://github.com/cbororio/clintech-billing) | MikroTik hotspot billing system. Users buy WiFi packages online and get access automatically. | Node.js, Express, MikroTik API, Paystack |
+| [**E-Library**](https://github.com/cbororio/e-library.github.io) | Digital library for browsing and borrowing books. | Python, Django |
+| [**Portfolio**](https://cbororio.github.io/bronco.github.io/) | My personal resume and portfolio site. | HTML, CSS, Bootstrap |
 
 ### GitHub stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=cronX758&show_icons=true&hide_border=true&count_private=true" height="160" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronX758&layout=compact&hide_border=true" height="160" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=cbororio&show_icons=true&hide_border=true&count_private=true" height="160" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbororio&layout=compact&hide_border=true" height="160" alt="Top languages">
 </p>
 
 ---

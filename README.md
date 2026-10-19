@@ -14,6 +14,7 @@ I build web apps that solve practical problems, from full-stack platforms to net
 
 - 🌱 Currently building **KoDeCK BioLoop**, an AI-assisted organic waste platform built for the CIRIS 2026 Hackathon
 - 📡 Building billing systems for MikroTik WiFi hotspots with mobile payments
+- 📷 Building **Canon Capture**, a Windows desktop app for tethered shooting with Canon EOS cameras over USB
 - 💼 Available for freelance web development and networking work
 
 ### Tech I work with
@@ -32,6 +33,7 @@ I build web apps that solve practical problems, from full-stack platforms to net
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt">
   <br>
   <img src="https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white" alt="MikroTik">
   <img src="https://img.shields.io/badge/Paystack-00C3F7?style=flat-square&logo=paystack&logoColor=white" alt="Paystack">
@@ -46,6 +48,7 @@ I build web apps that solve practical problems, from full-stack platforms to net
 |---|---|---|
 | [**KoDeCK BioLoop**](https://github.com/cbororio/kodeck-bioloop) | Phone-first app that turns organic waste into farm inputs. AI checks each waste photo, routes it to a BSF or compost farmer, and rewards uploaders with airtime or M-Pesa payouts. Includes a county admin dashboard. | Next.js, TypeScript, Tailwind, AI vision |
 | [**Clintech WiFi Billing**](https://github.com/cbororio/clintech-billing) | MikroTik hotspot billing system. Users buy WiFi packages online and get access automatically. | Node.js, Express, MikroTik API, Paystack |
+| [**Canon Capture**](https://github.com/cbororio/canon-capture) | Windows app for tethered photo capture with a Canon EOS 90D over USB. Live view, autofocus and remote shutter, with ISO, aperture, shutter speed and white balance controls. Photos save straight to the PC. macOS-style interface with light and dark mode. | Python, PySide6 (Qt), Canon EDSDK, PyInstaller |
 | [**E-Library**](https://github.com/cbororio/e-library.github.io) | Digital library for browsing and borrowing books. | Python, Django |
 | [**Portfolio**](https://cbororio.github.io/bronco.github.io/) | My personal resume and portfolio site. | HTML, CSS, Bootstrap |
 
